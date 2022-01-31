@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1079010791191",
+    "project_id": "yagmurundefteri",
+    "storage_bucket": "yagmurundefteri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079010791191:android:b97d482894c864e83af152",
+        "android_client_info": {
+          "package_name": "com.yagmurundefteri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079010791191-nv9hnfqee6rg2vn7egn955jbhb3ui23p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCetVXr9xqLfqVUP0UL7lhjX-thjtZRIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079010791191-nv9hnfqee6rg2vn7egn955jbhb3ui23p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079010791191-f9298025vld7c1ce87pplmd0h4d9d7st.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.YagmurunDefteri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
